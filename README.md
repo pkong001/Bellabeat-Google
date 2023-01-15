@@ -1,3 +1,7 @@
+Case link: [https://www.kaggle.com/code/pongpisutkongdan/bellabeat-google-data-analytics-case-study-two](https://www.kaggle.com/code/pongpisutkongdan/bellabeat-google-data-analytics-case-study-two)
+
+## This Work is not complete according to the goal yet, the analysis has ended at descriptive & statistic part.
+
 # Bellabeat-Google
 ## Background
 Bellabeat, a high-tech company that manufactures health-focused smart products.Sršen used her background as an artist to develop beautifully designed technology that informs and inspires women aroundthe world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women withknowledge about their own health and habits. Since it was founded in 2013, Bellabeat has grown rapidly and quicklypositioned itself as a tech-driven wellness company for women.
